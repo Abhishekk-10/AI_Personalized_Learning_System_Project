@@ -1,0 +1,98 @@
+{
+    "beginner": {
+        "video": [
+            {
+                "title": "Python for Absolute Beginners",
+                "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+            },
+            {
+                "title": "AI Basics Explained",
+                "link": "https://www.youtube.com/watch?v=2ePf9rue1Ao"
+            }
+        ],
+        "article": [
+            {
+                "title": "Intro to Python",
+                "link": "https://realpython.com/python-beginners-guide/"
+            },
+            {
+                "title": "What is AI?",
+                "link": "https://builtin.com/artificial-intelligence"
+            }
+        ],
+        "quiz": [
+            {
+                "title": "Basic Python Quiz",
+                "link": "https://www.w3schools.com/quiztest/quiztest.asp?qtest=Python"
+            },
+            {
+                "title": "AI Fundamentals Quiz",
+                "link": "https://www.proprofs.com/quiz-school/story.php?title=artificial-intelligence_3"
+            }
+        ]
+    },
+    "intermediate": {
+        "video": [
+            {
+                "title": "Intermediate Python Tutorial",
+                "link": "https://www.youtube.com/watch?v=HGOBQPFzWKo"
+            },
+            {
+                "title": "AI Project-Based Learning",
+                "link": "https://www.youtube.com/watch?v=8rXD5-xhemo"
+            }
+        ],
+        "article": [
+            {
+                "title": "Data Analysis in Python",
+                "link": "https://realpython.com/pandas-python-explore-dataset/"
+            },
+            {
+                "title": "AI for Students",
+                "link": "https://www.analyticsvidhya.com/blog/2021/06/learning-artificial-intelligence-in-2021/"
+            }
+        ],
+        "quiz": [
+            {
+                "title": "Python Functions Quiz",
+                "link": "https://www.w3schools.com/quiztest/quiztest.asp?qtest=Python_Functions"
+            },
+            {
+                "title": "ML Concepts Quiz",
+                "link": "https://www.geeksforgeeks.org/quiz-corner-gq/machine-learning-gq/"
+            }
+        ]
+    },
+    "advanced": {
+        "video": [
+            {
+                "title": "Advanced AI Projects",
+                "link": "https://www.youtube.com/watch?v=aircAruvnKk"
+            },
+            {
+                "title": "Deep Learning Full Course",
+                "link": "https://www.youtube.com/watch?v=84gqSbLcBFE"
+            }
+        ],
+        "article": [
+            {
+                "title": "Neural Networks Explained",
+                "link": "https://towardsdatascience.com/a-simple-neural-network-implementation-in-python-61a2e07e4dcf"
+            },
+            {
+                "title": "AI in Education Research",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0360131521001553"
+            }
+        ],
+        "quiz": [
+            {
+                "title": "Deep Learning Quiz",
+                "link": "https://www.sanfoundry.com/artificial-intelligence-questions-answers-deep-learning/"
+            },
+            {
+                "title": "AI Interview Prep Quiz",
+                "link": "https://www.interviewbit.com/artificial-intelligence-mcq/"
+            }
+        ]
+    }
+}
