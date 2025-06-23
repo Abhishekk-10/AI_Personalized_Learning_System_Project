@@ -1,0 +1,43 @@
+🎓 AI in Education: Personalized Learning System | Python Project for Beginners
+
+In this video, I present a beginner-friendly Python project that simulates an AI-based Personalized Learning System — perfect for students, internships, and GitHub portfolios!
+
+🔍 **Project Overview:**
+This system recommends personalized learning resources like videos, articles, or quizzes based on a user's test/quiz score and their preferred learning style (Video/Text/Practice). It's built using Python and rule-based AI logic.
+
+📌 **Key Features:**
+- Takes quiz/test score input
+- Learner selects their preferred study style
+- Recommends content categorized by level: Beginner, Intermediate, Advanced
+- Uses structured JSON data for easy updates
+- Simple console-based app (no complex GUI)
+
+💻 **Tech Stack:**
+- Python
+- JSON
+- Basic AI logic
+- Command-line interaction
+
+🧠 **What You'll Learn:**
+- How to build recommendation systems
+- Simple AI decision logic in Python
+- Using JSON files for data organization
+
+📁 **GitHub Repo:**  
+🔗 [Add your GitHub link here]
+
+📄 **Download Project Files (Code + Report):**  
+🔗 [Add your Google Drive or linktree link]
+
+📝 **Includes:**
+- Python script (`personalized_learning.py`)
+- JSON data file (`resources.json`)
+- README file
+- Internship-ready PDF report
+
+🙋‍♂️ Created by:  
+Abhishek Kumar Thakur | Aspiring Data Scientist
+
+🔔 Don't forget to Like 👍, Share 🔁, and Subscribe 🔔 for more student projects and Python content!
+
+#AIinEducation #PythonProject #PersonalizedLearning #StudentProject #BeginnerAI #InternshipProject #Python
